@@ -1,0 +1,8 @@
+References
+
+How to install and run MongoDB on Windows
+http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
+http://www.informit.com/articles/article.aspx?p=2246943
+
+How to process large XML files with incremental parsing and ElementTree
+http://effbot.org/zone/element-iterparse.htm

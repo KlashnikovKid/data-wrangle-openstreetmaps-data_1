@@ -1,0 +1,8 @@
+A text file containing a link to the map position you wrangled in your project, a short description of the area and a reason for your choice.
+
+https://s3.amazonaws.com/metro-extracts.mapzen.com/birmingham_alabama.osm.bz2
+
+Birmingham, Alabama from MapZen
+https://mapzen.com/metro-extracts/
+
+Initially wanted to process Atlanta data in Georgia, however uncompressed the OSM file was about 2 gigs. Instead I chose Birmingham, Alabama because it wasn't too far away and was a reasonably sized and interesting data set.
